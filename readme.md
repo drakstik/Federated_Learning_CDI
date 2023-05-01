@@ -11,6 +11,8 @@ The dataset in this project is propriatery and will not be divulged. However, th
 This project simulates training and evaluating an FL model, however, it cannot be extrapolated to any real world scenario. We measure the theoretical differences between our centralized model and federated learning model. 
 
 ## Contributors
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=drakstik/Federated_Learning_CDI" />
+1. Geetika Gopi (ggopi@andrew.cmu.edu)
+2. David Meringabo (dmbering@andrew.cmu.edu)
+3. Yunyi Wang (yunyiw@andrew.cmu.edu)
+4. Kay Chen (kristin2@andrew.cmu.edu)
 </a>
