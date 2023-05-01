@@ -12,5 +12,5 @@ This project simulates training and evaluating an FL model, however, it cannot b
 
 ## Contributors
 <a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
+  <img src="https://contrib.rocks/image?repo=drakstik/Federated_Learning_CDI" />
 </a>
