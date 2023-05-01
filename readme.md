@@ -11,7 +11,14 @@ The dataset in this project is propriatery and will not be divulged. However, th
 This project simulates training and evaluating an FL model, however, it cannot be extrapolated to any real world scenario. We measure the theoretical differences between our centralized model and federated learning model. 
 
 ## Running the Centralized Model
-- Run the python notebook [File Name](./Centralized_Model_McArthurs_CNN.ipynb)
+- Run the python notebook [Centralized_Model_McArthurs_CNN.ipynb](./Centralized_Model_McArthurs_CNN.ipynb)
+- Replace the dataset file paths accordingly:
+```python
+df_ey = pd.read_csv('/content/gdrive/MyDrive/EPS Project/Datasets/EIRLI_younger.csv')
+df_eo = pd.read_csv('/content/gdrive/MyDrive/EPS Project/Datasets/EIRLI_older.csv')
+df_ly = pd.read_csv('/content/gdrive/MyDrive/EPS Project/Datasets/LASER_younger.csv')
+df_lo = pd.read_csv('/content/gdrive/MyDrive/EPS Project/Datasets/LASER_older.csv')
+```
 
 ## Contributors
 1. Geetika Gopi (ggopi@andrew.cmu.edu)
