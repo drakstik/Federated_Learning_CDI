@@ -12,6 +12,7 @@ This project simulates training and evaluating an FL model, however, it cannot b
 
 ## Running the Centralized Model
 - Run the python notebook [Centralized_Model_McArthurs_CNN.ipynb](./Centralized_Model_McArthurs_CNN.ipynb)
+- A pickled version of the model is also available for use ([CentralizedModel.h5](./CentralizedModel.h5)
 - Note: Make sure to replace the dataset file paths accordingly:
 ```python
 df_ey = pd.read_csv('/update/dataset/path/EIRLI_younger.csv')
@@ -19,7 +20,6 @@ df_eo = pd.read_csv('/update/dataset/path/EIRLI_older.csv')
 df_ly = pd.read_csv('/update/dataset/path/LASER_younger.csv')
 df_lo = pd.read_csv('/update/dataset/path/LASER_older.csv')
 ```
-- The pickled version of the model is also available if required ([Centralized_Model_McArthurs_CNN.ipynb](./Centralized_Model_McArthurs_CNN.ipynb))
 
 ## Contributors
 1. Geetika Gopi (ggopi@andrew.cmu.edu)
