@@ -11,8 +11,8 @@ The dataset in this project is propriatery and will not be divulged. However, th
 This project simulates training and evaluating an FL model, however, it cannot be extrapolated to any real world scenario. We measure the theoretical differences between our centralized model and federated learning model. 
 
 ## Running the Centralized Model
-- Run the python notebook [Centralized_Model_McArthurs_CNN.ipynb](./Centralized_Model_McArthurs_CNN.ipynb)
-- A pickled version of the model is also available for use ([CentralizedModel.h5](./CentralizedModel.h5)
+- Run the python notebook - [Centralized_Model_McArthurs_CNN.ipynb](./Centralized_Model_McArthurs_CNN.ipynb)
+- A pickled version of the model is also available for use - [CentralizedModel.h5](./CentralizedModel.h5)
 - Note: Make sure to replace the dataset file paths accordingly:
 ```python
 df_ey = pd.read_csv('/update/dataset/path/EIRLI_younger.csv')
