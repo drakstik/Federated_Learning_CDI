@@ -14,10 +14,10 @@ This project simulates training and evaluating an FL model, however, it cannot b
 - Run the python notebook [Centralized_Model_McArthurs_CNN.ipynb](./Centralized_Model_McArthurs_CNN.ipynb)
 - Replace the dataset file paths accordingly:
 ```python
-df_ey = pd.read_csv('/content/gdrive/MyDrive/EPS Project/Datasets/EIRLI_younger.csv')
-df_eo = pd.read_csv('/content/gdrive/MyDrive/EPS Project/Datasets/EIRLI_older.csv')
-df_ly = pd.read_csv('/content/gdrive/MyDrive/EPS Project/Datasets/LASER_younger.csv')
-df_lo = pd.read_csv('/content/gdrive/MyDrive/EPS Project/Datasets/LASER_older.csv')
+df_ey = pd.read_csv('/update/dataset/path/EIRLI_younger.csv')
+df_eo = pd.read_csv('/update/dataset/path/EIRLI_older.csv')
+df_ly = pd.read_csv('/update/dataset/path/LASER_younger.csv')
+df_lo = pd.read_csv('/update/dataset/path/LASER_older.csv')
 ```
 
 ## Contributors
