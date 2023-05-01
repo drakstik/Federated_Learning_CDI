@@ -9,3 +9,14 @@ The idea is that parents and edge devices can record child developmental data an
 The dataset in this project is propriatery and will not be divulged. However, the dataset is proprietary, and as such will not be stored on any public platforms. The project is therefor only accessible to authorized individuals. To get access to the dataset, please contact dmbering@andrew.cmu.edu or ggopi@andrew.cmu.edu.
 
 This project simulates training and evaluating an FL model, however, it cannot be extrapolated to any real world scenario. We measure the theoretical differences between our centralized model and federated learning model. 
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
