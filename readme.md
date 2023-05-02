@@ -21,6 +21,16 @@ df_ly = pd.read_csv('/update/dataset/path/LASER_younger.csv')
 df_lo = pd.read_csv('/update/dataset/path/LASER_older.csv')
 ```
 
+## Running the Federated Model
+- Run the python notebook - [federated_learning.ipynb](./federated_learning.ipynb)
+- Note: Make sure to replace the dataset file paths accordingly
+```python
+df_ey = pd.read_csv('/your-path/dataset/path/EIRLI_younger.csv')
+df_eo = pd.read_csv('/your-path/dataset/path/EIRLI_older.csv')
+df_ly = pd.read_csv('/your-path/dataset/path/LASER_younger.csv')
+df_lo = pd.read_csv('/your-path/dataset/path/LASER_older.csv')
+```
+
 ## Contributors
 1. Geetika Gopi (ggopi@andrew.cmu.edu)
 2. David Meringabo (dmbering@andrew.cmu.edu)
